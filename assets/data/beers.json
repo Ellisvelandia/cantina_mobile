@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Guinness",
+        "detail": "Guinness, is an Irish dry stout that originated in the brewery of Arthur Guinness at St. James's Gate, Dublin. Guinness is one of the most successful beer brands worldwide. It is brewed in almost 60 countries and is available in over 120",
+        "imagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Guinness_7686a.jpg/640px-Guinness_7686a.jpg",
+        "abv": 4.2,
+        "country": {
+            "name": "Irland"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Hoegaarden",
+        "detail": "Hoegaarden Brewery is a brewery in Hoegaarden, Belgium, and the producer of a well-known wheat beer",
+        "imagePath": "https://www.colonialspirits.com/wp-content/uploads/2016/01/Hoegaarden-6-bottles.jpg",
+        "abv": 4.9,
+        "country": {
+            "name": "Belgium"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Singha",
+        "detail": "Singha is a 5% alcohol-by-volume pale lager produced by Boon Rawd Brewery. It is also available in 5% abv draught version as Singha Lager Draft, and the 3.5% abv Singha Light introduced in 2006",
+        "imagePath": "http://static.rcgroups.net/forums/attachments/7/2/0/9/9/a1611226-110-singha.136161615_std%5B1%5D.png?d=1197493537",
+        "abv": 5.0,
+        "country": {
+            "name": "Thailand"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Stella Artois",
+        "detail": "Stella is a pilsner beer of between 4.8 and 5.2% ABV. It has been brewed in Leuven, Belgium, since 1926, although it is also brewed in other locations",
+        "imagePath": "https://copservir.vtexassets.com/arquivos/ids/1086556/CERVEZA-STELLA-ARTOIS-330-X-6_F.png?v=638343405207100000",
+        "abv": 5.2,
+        "country": {
+            "name": "Belgium"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Chang",
+        "detail": "Thai Beverage, better known as ThaiBev, is Thailand's largest and one of Southeast Asia's largest beverage companies, with distilleries in Thailand, Scotland, Ireland, China and France",
+        "imagePath": "http://www.femail.com.au/graphics/changbeer1.jpg",
+        "abv": 6.0,
+        "country": {
+            "name": "Thailand"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Poker",
+        "detail": "Poker is the beer in Bavaria's portfolio with the highest sales volume in the country. It was founded in 1929 and has been fighting for friendship and bringing friends together for 90 years. It is characterized by its bitter taste with a hint of sweet notes.",
+        "imagePath": "https://vaquitaexpress.com.co/media/catalog/product/cache/e89ece728e3939ca368b457071d3c0be/7/7/7702004007377_4.jpg",
+        "abv": 4.5,
+        "country": {
+            "name": "Col"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Club Colombia",
+        "detail": "Club Colombia was born in 1949 in Colombia under the name Club Sesenta, in commemoration of the sixty years of the founding of Bavaria and was the company's first premium beer. At the beginning of the 1960s, its name was changed to Club Colombia.",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy9IxTa71T0UB4fp29QebcukqE8H2qfYtJSNqE3Z2fejIQVlUzQmtUNBWD5clbOjYSz6w&usqp=CAU",
+        "abv": 4.5,
+        "country": {
+            "name": "Col"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Steel Reserve",
+        "detail": "Steel Reserve is an American lager brand owned and produced by Steel Brewing Company, which is owned by Miller.  It is noted for its high alcohol content and low price",
+        "imagePath": "https://chamberswineandliquor.com/wp-content/uploads/2021/12/78250003348.jpg",
+        "abv": 8.1,
+        "country": {
+            "name": "US"
+        }
+    }
+]
